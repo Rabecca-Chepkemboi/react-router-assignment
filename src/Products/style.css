@@ -1,0 +1,36 @@
+.fetched-products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(8, 3, 5);
+    }
+    .items{
+      margin: 10px;
+      padding: 10px;
+      border: 1px solid rgb(138, 188, 218);
+      border-radius: 5px;
+      text-align: center;
+      background-color:rgb(166, 200, 212);
+    }
+    .img{
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+    }
+    .detail{
+      font-weight: bold;
+    }
+    .paragraph2{
+      color: rgb(10, 10, 10);
+    }
+    .heading{
+      color: rgb(5, 5, 5);
+      font-size: 1em;
+    }
+    .btn{
+      padding: 15px;
+      border-radius: 12px;
+      background-color: #E39;
+      cursor: pointer;
+    }
+  
